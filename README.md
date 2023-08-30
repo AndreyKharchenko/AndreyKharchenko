@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Andrey Kharchenko 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Bachelor Degree Applied Informatics</h3>
-<h3 align="center">🔭 Frontend Developer</h3>
+<h2 align="center">Frontend Developer 🔭</h2>
+<h3 align="left">About me: I’m currently working like Frontend Developer. I have degree Applied Informatics (Bachelor)</h3>
+
 
 <!--
 **AndreyKharchenko/AndreyKharchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
